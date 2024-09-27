@@ -16,6 +16,9 @@ class ModeloUsuarios{
         $stmt=null;
     }
 
+    static public function mdlIngresarUsuarios($tabla,$datos){
+        
+    }
 
 }
 
